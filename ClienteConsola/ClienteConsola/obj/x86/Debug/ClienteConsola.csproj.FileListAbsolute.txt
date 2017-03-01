@@ -1,0 +1,4 @@
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteConsola\ClienteConsola\bin\Debug\ClienteConsola.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteConsola\ClienteConsola\bin\Debug\ClienteConsola.pdb
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteConsola\ClienteConsola\obj\x86\Debug\ClienteConsola.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ClienteConsola\ClienteConsola\obj\x86\Debug\ClienteConsola.pdb
